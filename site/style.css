@@ -51,24 +51,17 @@ header {
 .logo-card {
     display: inline-block;
     margin: 0 auto 16px;
-    padding: 14px;
-    background: var(--card);
-    border: 1px solid rgba(245, 158, 11, 0.35);
-    border-radius: var(--radius-lg);
-    box-shadow: var(--shadow-soft), 0 0 0 1px rgba(0,0,0,0.3) inset;
 }
 
 .logo-img {
     display: block;
-    width: 320px;
-    max-width: 72vw;
+    width: 420px;
+    max-width: 85vw;
     height: auto;
-    border-radius: var(--radius-md);
 }
 
 @media (max-width: 480px) {
-    .logo-img { width: 190px; max-width: 48vw; }
-    .logo-card { padding: 10px; }
+    .logo-img { width: 300px; max-width: 78vw; }
 }
 
 .subtitle { color: var(--muted); margin: 0; font-weight: 500; }
