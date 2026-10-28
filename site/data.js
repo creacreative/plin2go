@@ -1,5 +1,5 @@
 window.PECO_DATA = {
-  "actualizat_la": "2026-10-28T15:23:11.046Z",
+  "actualizat_la": "2026-10-28T19:52:16.395Z",
   "sursa": "pretbenzina.ro (date pe retea/brand, agregate pe judet)",
   "curs_eur": 5.3508,
   "curs_eur_data": "2026-10-28",
@@ -98,8 +98,8 @@ window.PECO_DATA = {
             "max": 10.06
           },
           "benzina_premium": {
-            "min": 10.54,
-            "max": 10.54
+            "min": 10.59,
+            "max": 10.59
           },
           "motorina": {
             "min": 10.86,
@@ -4226,8 +4226,8 @@ window.PECO_DATA = {
             "max": 10.06
           },
           "benzina_premium": {
-            "min": 10.54,
-            "max": 10.54
+            "min": 10.59,
+            "max": 10.59
           },
           "motorina": {
             "min": 10.86,
@@ -4667,8 +4667,8 @@ window.PECO_DATA = {
             "max": 10.06
           },
           "benzina_premium": {
-            "min": 10.54,
-            "max": 10.54
+            "min": 10.59,
+            "max": 10.59
           },
           "motorina": {
             "min": 10.86,
@@ -5392,8 +5392,8 @@ window.PECO_DATA = {
             "max": 10.06
           },
           "benzina_premium": {
-            "min": 10.54,
-            "max": 10.54
+            "min": 10.59,
+            "max": 10.59
           },
           "motorina": {
             "min": 10.86,
@@ -5421,8 +5421,8 @@ window.PECO_DATA = {
             "max": 10.92
           },
           "motorina_premium": {
-            "min": 10.92,
-            "max": 10.92
+            "min": 11.83,
+            "max": 11.83
           },
           "gpl": null,
           "are_gpl": false
