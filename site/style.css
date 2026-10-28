@@ -6,8 +6,8 @@
     --glass-border: rgba(255, 255, 255, 0.09);
     --text: #eef2f8;
     --muted: #94a3b8;
-    --accent: #38bdf8;
-    --accent2: #818cf8;
+    --accent: #ca8a04;
+    --accent2: #d97706;
     --gpl: #f59e0b;
     --radius-lg: 22px;
     --radius-md: 16px;
@@ -22,8 +22,8 @@ body {
     font-family: 'Manrope', system-ui, Segoe UI, Arial, sans-serif;
     letter-spacing: 0.01em;
     background:
-        radial-gradient(ellipse 1000px 560px at 15% -10%, rgba(56, 189, 248, 0.20), transparent),
-        radial-gradient(ellipse 800px 500px at 100% 0%, rgba(129, 140, 248, 0.16), transparent),
+        radial-gradient(ellipse 1000px 560px at 15% -10%, rgba(202, 138, 4, 0.20), transparent),
+        radial-gradient(ellipse 800px 500px at 100% 0%, rgba(217, 119, 6, 0.16), transparent),
         radial-gradient(ellipse 700px 500px at 50% 110%, rgba(245, 158, 11, 0.10), transparent),
         var(--bg);
     background-attachment: fixed;
@@ -51,6 +51,10 @@ header {
 .logo-card {
     display: inline-block;
     margin: 0 auto 16px;
+    padding: 18px 26px;
+    background: linear-gradient(180deg, #fffbeb, #fef3c7);
+    border-radius: 24px;
+    box-shadow: 0 16px 36px -10px rgba(202, 138, 4, 0.45), inset 0 1px 0 rgba(255,255,255,0.6);
 }
 
 .logo-img {
@@ -58,7 +62,6 @@ header {
     width: 220px;
     max-width: 60vw;
     height: auto;
-    filter: drop-shadow(0 10px 24px rgba(56, 189, 248, 0.35));
 }
 
 .subtitle { color: var(--muted); margin: 0; font-weight: 500; }
@@ -83,19 +86,19 @@ header {
     padding: 15px 38px;
     border-radius: 16px;
     border: 1px solid var(--glass-border);
-    background: linear-gradient(135deg, rgba(56, 189, 248, 0.22), rgba(129, 140, 248, 0.18));
+    background: linear-gradient(135deg, rgba(202, 138, 4, 0.22), rgba(129, 140, 248, 0.18));
     backdrop-filter: blur(12px);
     color: var(--text);
     font-family: inherit;
     font-size: 1.3em;
     font-weight: 700;
     cursor: pointer;
-    box-shadow: 0 10px 28px -10px rgba(56, 189, 248, 0.45);
+    box-shadow: 0 10px 28px -10px rgba(202, 138, 4, 0.45);
     transition: transform 0.15s ease, box-shadow 0.15s ease;
 }
 
 .currency-btn .divider { color: var(--muted); margin: 0 6px; }
-.currency-btn:hover { transform: translateY(-2px); box-shadow: 0 14px 32px -8px rgba(56, 189, 248, 0.55); }
+.currency-btn:hover { transform: translateY(-2px); box-shadow: 0 14px 32px -8px rgba(202, 138, 4, 0.55); }
 .currency-btn.eur {
     background: linear-gradient(135deg, rgba(245, 158, 11, 0.25), rgba(245, 158, 11, 0.1));
     color: var(--gpl);
@@ -140,7 +143,7 @@ main { max-width: 1400px; margin: 0 auto; padding: 16px; }
 .tab-btn.active {
     color: #04131e;
     background: linear-gradient(135deg, var(--accent), var(--accent2));
-    box-shadow: 0 8px 20px -8px rgba(56, 189, 248, 0.6);
+    box-shadow: 0 8px 20px -8px rgba(202, 138, 4, 0.6);
 }
 
 #stats-chart-wrap {
@@ -218,7 +221,7 @@ main { max-width: 1400px; margin: 0 auto; padding: 16px; }
 }
 
 #search::placeholder { color: var(--muted); }
-#search:focus { border-color: var(--accent); box-shadow: 0 0 0 4px rgba(56,189,248,0.2); }
+#search:focus { border-color: var(--accent); box-shadow: 0 0 0 4px rgba(202,138,4,0.2); }
 
 #near-me-btn {
     flex-shrink: 0;
@@ -274,7 +277,7 @@ main { max-width: 1400px; margin: 0 auto; padding: 16px; }
     cursor: pointer;
 }
 
-#search-results button:hover { background: rgba(56,189,248,0.15); }
+#search-results button:hover { background: rgba(202,138,4,0.15); }
 
 .judet-region.dimmed {
     opacity: 0.2;
@@ -389,7 +392,7 @@ main { max-width: 1400px; margin: 0 auto; padding: 16px; }
 .calc input[type="number"]:focus {
     outline: none;
     border-color: var(--accent);
-    box-shadow: 0 0 0 4px rgba(56,189,248,0.2);
+    box-shadow: 0 0 0 4px rgba(202,138,4,0.2);
 }
 
 .calc-results { margin-top: 12px; display: flex; flex-wrap: wrap; gap: 10px; }
