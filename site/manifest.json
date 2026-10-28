@@ -1,0 +1,16 @@
+{
+  "name": "PECO România — Prețuri Carburanți",
+  "short_name": "PECO România",
+  "description": "Prețuri la benzină, motorină și GPL pe județe din România, actualizate orar.",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait-primary",
+  "background_color": "#0b1120",
+  "theme_color": "#0b1120",
+  "lang": "ro",
+  "icons": [
+    { "src": "icons/icon.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "any" },
+    { "src": "icons/icon-maskable.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "maskable" }
+  ]
+}
