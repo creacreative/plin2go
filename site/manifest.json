@@ -1,6 +1,6 @@
 {
-  "name": "Prețuri Benzină România 2026",
-  "short_name": "Preț Benzină",
+  "name": "Plin2GO — Prețuri Carburanți România",
+  "short_name": "Plin2GO",
   "description": "Prețuri la benzină, motorină și GPL pe județe din România, actualizate orar.",
   "start_url": "./index.html",
   "scope": "./",

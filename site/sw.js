@@ -1,6 +1,6 @@
 // Service worker simplu: cache "network-first" pentru fisierele de date (ca sa fie mereu proaspete
 // cand e net), si "cache-first" pentru restul (css/js/harta), ca aplicatia sa porneasca si offline.
-const CACHE = 'pret-benzina-ro-v1';
+const CACHE = 'plin2go-v1';
 const CORE = [
     './',
     './index.html',
