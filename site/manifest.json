@@ -1,6 +1,6 @@
 {
-  "name": "PECO România — Prețuri Carburanți",
-  "short_name": "PECO România",
+  "name": "Prețuri Benzină România 2026",
+  "short_name": "Preț Benzină",
   "description": "Prețuri la benzină, motorină și GPL pe județe din România, actualizate orar.",
   "start_url": "./index.html",
   "scope": "./",
