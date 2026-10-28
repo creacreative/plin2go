@@ -66,6 +66,11 @@ header {
     border-radius: var(--radius-md);
 }
 
+@media (max-width: 480px) {
+    .logo-img { width: 190px; max-width: 48vw; }
+    .logo-card { padding: 10px; }
+}
+
 .subtitle { color: var(--muted); margin: 0; font-weight: 500; }
 .updated { color: var(--muted); font-size: 0.85em; margin-top: 6px; }
 
