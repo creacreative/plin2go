@@ -51,14 +51,19 @@ header {
 .logo-card {
     display: inline-block;
     margin: 0 auto 16px;
+    padding: 14px;
+    background: var(--card);
+    border: 1px solid rgba(245, 158, 11, 0.35);
+    border-radius: var(--radius-lg);
+    box-shadow: var(--shadow-soft), 0 0 0 1px rgba(0,0,0,0.3) inset;
 }
 
 .logo-img {
     display: block;
-    width: 220px;
-    max-width: 60vw;
+    width: 320px;
+    max-width: 72vw;
     height: auto;
-    filter: drop-shadow(0 10px 24px rgba(202, 138, 4, 0.4));
+    border-radius: var(--radius-md);
 }
 
 .subtitle { color: var(--muted); margin: 0; font-weight: 500; }
