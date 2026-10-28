@@ -50,11 +50,7 @@ header {
 
 .logo-card {
     display: inline-block;
-    padding: 14px 20px;
     margin: 0 auto 16px;
-    background: #ffffff;
-    border-radius: var(--radius-lg);
-    box-shadow: 0 16px 36px -10px rgba(56, 189, 248, 0.35);
 }
 
 .logo-img {
@@ -62,6 +58,7 @@ header {
     width: 220px;
     max-width: 60vw;
     height: auto;
+    filter: drop-shadow(0 10px 24px rgba(56, 189, 248, 0.35));
 }
 
 .subtitle { color: var(--muted); margin: 0; font-weight: 500; }
