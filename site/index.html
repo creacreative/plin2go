@@ -1,0 +1,84 @@
+<!DOCTYPE html>
+<html lang="ro">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>PECO Neamț — prețuri carburanți</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Manrope:wght@500;600;700;800&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="style.css">
+</head>
+<body>
+<header>
+    <h1><span class="fuel-icon">⛽</span><span class="brand-text">PECO România</span></h1>
+    <p class="subtitle">Apasă pe un județ ca să vezi prețurile la benzină, motorină și GPL</p>
+    <p class="updated" id="updated"></p>
+</header>
+
+<main>
+    <div id="tabs">
+        <button type="button" class="tab-btn active" id="tab-harta-btn">🗺️ Hartă</button>
+        <button type="button" class="tab-btn" id="tab-stats-btn">📊 Statistici</button>
+    </div>
+
+    <section id="tab-harta">
+    <div id="search-wrap">
+        <input type="text" id="search" placeholder="Caută județ... (ex: N)" autocomplete="off">
+        <button id="near-me-btn" type="button">📍 Lângă mine</button>
+        <div id="search-results"></div>
+    </div>
+
+    <div id="map-wrap"></div>
+
+    <div class="currency-wrap">
+        <button type="button" id="currency-toggle" class="currency-btn">Lei <span class="divider">/</span> Euro</button>
+        <p class="curs-info" id="curs-info"></p>
+    </div>
+
+    <section id="detail">
+        <h2 id="judet-title">Alege un județ pe hartă</h2>
+        <section class="cheapest" id="cheapest"></section>
+
+        <div class="calc" id="calc" hidden>
+            <label for="calc-litri">Cât costă un plin de <input type="number" id="calc-litri" value="50" min="1" max="200"> L?</label>
+            <div class="calc-results" id="calc-results"></div>
+        </div>
+
+        <div class="calc" id="gpl-calc" hidden>
+            <p class="calc-title">⛽ Cât economisești cu GPL?</p>
+            <label>
+                <input type="number" id="gpl-km" value="15000" min="100" max="200000" step="500"> km/an,
+                consum <input type="number" id="gpl-consum" value="7" min="1" max="30" step="0.5"> L/100km benzină
+            </label>
+            <div class="calc-results" id="gpl-results"></div>
+        </div>
+
+        <p class="legend"><span class="badge gpl">GPL</span> = rețeaua are și GPL</p>
+        <div class="cards" id="cards"></div>
+    </section>
+    </section>
+
+    <section id="tab-stats" hidden>
+        <h2>Evoluția prețului, ultimele 30 de zile</h2>
+        <p class="legend" id="stats-info"></p>
+        <div id="stats-chart-wrap">
+            <div id="stats-chart-scroll"></div>
+            <div id="chart-tooltip" class="chart-tooltip" hidden></div>
+        </div>
+        <div id="stats-legend" class="stats-legend"></div>
+    </section>
+
+    <footer>
+        <p>Date agregate pe județ, din surse publice (pretbenzina.ro). Pot diferi de prețul real de la pompă.</p>
+        <p>PECO România este un instrument independent, neafiliat cu Petrom, OMV, Rompetrol, MOL, Lukoil, Socar, Gazprom sau alte rețele menționate.</p>
+        <p><a href="privacy.html">Politica de confidențialitate</a></p>
+    </footer>
+</main>
+
+<script src="data.js"></script>
+<script src="map.js"></script>
+<script src="istoric.js"></script>
+<script src="app.js"></script>
+</body>
+</html>
