@@ -5,7 +5,13 @@
       <stop offset="55%" stop-color="#818cf8"/>
       <stop offset="100%" stop-color="#f59e0b"/>
     </linearGradient>
+    <radialGradient id="sheen" cx="30%" cy="18%" r="75%">
+      <stop offset="0%" stop-color="#ffffff" stop-opacity="0.35"/>
+      <stop offset="45%" stop-color="#ffffff" stop-opacity="0.08"/>
+      <stop offset="100%" stop-color="#ffffff" stop-opacity="0"/>
+    </radialGradient>
   </defs>
   <rect width="512" height="512" fill="url(#g)"/>
-  <text x="256" y="276" font-size="220" text-anchor="middle" dominant-baseline="middle">⛽</text>
+  <rect width="512" height="512" fill="url(#sheen)"/>
+  <text x="256" y="276" font-size="210" text-anchor="middle" dominant-baseline="middle" style="filter:drop-shadow(0 8px 12px rgba(0,0,0,0.35))">⛽</text>
 </svg>
