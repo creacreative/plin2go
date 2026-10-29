@@ -1,5 +1,5 @@
 window.PECO_DATA = {
-  "actualizat_la": "2026-10-29T04:10:36.909Z",
+  "actualizat_la": "2026-10-29T11:16:58.527Z",
   "sursa": "pretbenzina.ro (date pe retea/brand, agregate pe judet)",
   "curs_eur": 5.3508,
   "curs_eur_data": "2026-10-28",
@@ -403,8 +403,8 @@ window.PECO_DATA = {
             "max": 10.06
           },
           "benzina_premium": {
-            "min": 10.54,
-            "max": 10.54
+            "min": 10.59,
+            "max": 10.59
           },
           "motorina": {
             "min": 10.86,
