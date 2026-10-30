@@ -1,5 +1,5 @@
 window.PECO_DATA = {
-  "actualizat_la": "2026-10-30T02:23:31.324Z",
+  "actualizat_la": "2026-10-30T09:33:10.345Z",
   "sursa": "pretbenzina.ro (date pe retea/brand, agregate pe judet)",
   "curs_eur": 5.3441,
   "curs_eur_data": "2026-10-29",
@@ -1223,10 +1223,10 @@ window.PECO_DATA = {
       "judet": "Brăila",
       "cel_mai_ieftin": {
         "benzina": {
-          "pret": 10.06,
-          "brand": "SOCAR",
-          "statie": "Braila Dig",
-          "adresa": "DN 22B, KM 4 + 200, Braila"
+          "pret": 10.01,
+          "brand": "PETROM",
+          "statie": "GRADINA PUBLICA",
+          "adresa": "Str. Gradinii Publice nr.  cad. 5925, nr. FN"
         },
         "motorina": {
           "pret": 10.86,
@@ -1287,12 +1287,12 @@ window.PECO_DATA = {
         {
           "brand": "OMV",
           "benzina": {
-            "min": 10.12,
-            "max": 10.12
+            "min": 10.07,
+            "max": 10.07
           },
           "benzina_premium": {
-            "min": 10.69,
-            "max": 10.69
+            "min": 10.64,
+            "max": 10.64
           },
           "motorina": {
             "min": 10.92,
@@ -1308,8 +1308,8 @@ window.PECO_DATA = {
         {
           "brand": "PETROM",
           "benzina": {
-            "min": 10.06,
-            "max": 10.06
+            "min": 10.01,
+            "max": 10.01
           },
           "benzina_premium": null,
           "motorina": {
