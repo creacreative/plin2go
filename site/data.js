@@ -1,5 +1,5 @@
 window.PECO_DATA = {
-  "actualizat_la": "2026-11-01T21:38:47.049Z",
+  "actualizat_la": "2026-11-02T01:13:03.875Z",
   "sursa": "pretbenzina.ro (date pe retea/brand, agregate pe judet)",
   "curs_eur": 5.3447,
   "curs_eur_data": "2026-10-30",
