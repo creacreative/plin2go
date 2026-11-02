@@ -1,8 +1,8 @@
 window.PECO_DATA = {
-  "actualizat_la": "2026-11-02T09:09:29.622Z",
+  "actualizat_la": "2026-11-02T19:06:55.439Z",
   "sursa": "pretbenzina.ro (date pe retea/brand, agregate pe judet)",
-  "curs_eur": 5.3447,
-  "curs_eur_data": "2026-10-30",
+  "curs_eur": 5.3405,
+  "curs_eur_data": "2026-11-02",
   "curs_eur_sursa": "Banca Centrala Europeana, prin frankfurter.app",
   "judete": {
     "alba": {
@@ -2346,8 +2346,8 @@ window.PECO_DATA = {
             "max": 11.83
           },
           "gpl": {
-            "min": 4.7,
-            "max": 4.7
+            "min": 4.49,
+            "max": 4.49
           },
           "are_gpl": true
         },
