@@ -1,5 +1,5 @@
 window.PECO_DATA = {
-  "actualizat_la": "2026-11-02T19:06:55.439Z",
+  "actualizat_la": "2026-11-03T01:58:43.656Z",
   "sursa": "pretbenzina.ro (date pe retea/brand, agregate pe judet)",
   "curs_eur": 5.3405,
   "curs_eur_data": "2026-11-02",
@@ -119,194 +119,22 @@ window.PECO_DATA = {
             "max": 10.07
           },
           "benzina_premium": {
-            "min": 10.64,
-            "max": 10.64
+            "min": 10.69,
+            "max": 10.69
           },
           "motorina": {
             "min": 10.92,
             "max": 10.92
           },
           "motorina_premium": {
-            "min": 11.83,
-            "max": 11.83
+            "min": 11.89,
+            "max": 11.89
           },
           "gpl": {
             "min": 4.73,
             "max": 4.73
           },
           "are_gpl": true
-        }
-      ]
-    },
-    "arad": {
-      "judet": "Arad",
-      "cel_mai_ieftin": {
-        "benzina": {
-          "pret": 9.99,
-          "brand": "SOCAR",
-          "statie": "Arad Saguna",
-          "adresa": "Str. Andrei Saguna nr. 99-101, Arad, jud. Arad"
-        },
-        "motorina": {
-          "pret": 10.83,
-          "brand": "SOCAR",
-          "statie": "Arad Saguna",
-          "adresa": "Str. Andrei Saguna nr. 99-101, Arad, jud. Arad"
-        }
-      },
-      "brands": [
-        {
-          "brand": "GAZPROM",
-          "benzina": {
-            "min": 10.17,
-            "max": 10.17
-          },
-          "benzina_premium": {
-            "min": 10.74,
-            "max": 10.74
-          },
-          "motorina": {
-            "min": 10.99,
-            "max": 10.99
-          },
-          "motorina_premium": {
-            "min": 11.86,
-            "max": 11.86
-          },
-          "gpl": null,
-          "are_gpl": false
-        },
-        {
-          "brand": "LUKOIL",
-          "benzina": {
-            "min": 10.07,
-            "max": 10.07
-          },
-          "benzina_premium": {
-            "min": 10.64,
-            "max": 10.64
-          },
-          "motorina": {
-            "min": 10.92,
-            "max": 10.92
-          },
-          "motorina_premium": {
-            "min": 11.81,
-            "max": 11.81
-          },
-          "gpl": {
-            "min": 4.71,
-            "max": 4.71
-          },
-          "are_gpl": true
-        },
-        {
-          "brand": "MOL",
-          "benzina": {
-            "min": 10.07,
-            "max": 10.07
-          },
-          "benzina_premium": {
-            "min": 10.64,
-            "max": 10.64
-          },
-          "motorina": {
-            "min": 10.92,
-            "max": 10.94
-          },
-          "motorina_premium": {
-            "min": 11.83,
-            "max": 11.83
-          },
-          "gpl": {
-            "min": 4.74,
-            "max": 4.74
-          },
-          "are_gpl": true
-        },
-        {
-          "brand": "OMV",
-          "benzina": {
-            "min": 10.07,
-            "max": 10.07
-          },
-          "benzina_premium": {
-            "min": 10.64,
-            "max": 10.64
-          },
-          "motorina": {
-            "min": 10.92,
-            "max": 10.92
-          },
-          "motorina_premium": {
-            "min": 11.81,
-            "max": 11.81
-          },
-          "gpl": null,
-          "are_gpl": false
-        },
-        {
-          "brand": "PETROM",
-          "benzina": {
-            "min": 10,
-            "max": 10.01
-          },
-          "benzina_premium": {
-            "min": 10.53,
-            "max": 10.54
-          },
-          "motorina": {
-            "min": 10.85,
-            "max": 10.86
-          },
-          "motorina_premium": {
-            "min": 11.7,
-            "max": 11.71
-          },
-          "gpl": null,
-          "are_gpl": false
-        },
-        {
-          "brand": "ROMPETROL",
-          "benzina": {
-            "min": 10.01,
-            "max": 10.07
-          },
-          "benzina_premium": {
-            "min": 9.84,
-            "max": 10.64
-          },
-          "motorina": {
-            "min": 10.86,
-            "max": 10.92
-          },
-          "motorina_premium": {
-            "min": 11.81,
-            "max": 11.83
-          },
-          "gpl": null,
-          "are_gpl": false
-        },
-        {
-          "brand": "SOCAR",
-          "benzina": {
-            "min": 9.99,
-            "max": 10.04
-          },
-          "benzina_premium": {
-            "min": 10.59,
-            "max": 10.64
-          },
-          "motorina": {
-            "min": 10.83,
-            "max": 10.89
-          },
-          "motorina_premium": {
-            "min": 11.23,
-            "max": 11.29
-          },
-          "gpl": null,
-          "are_gpl": false
         }
       ]
     },
@@ -588,184 +416,6 @@ window.PECO_DATA = {
           },
           "gpl": null,
           "are_gpl": false
-        }
-      ]
-    },
-    "bihor": {
-      "judet": "Bihor",
-      "cel_mai_ieftin": {
-        "benzina": {
-          "pret": 9.99,
-          "brand": "SOCAR",
-          "statie": "Oradea Decebal",
-          "adresa": "Oradea, bd. Decebal, nr. 42, colt cu str. Piata Cazarmii"
-        },
-        "motorina": {
-          "pret": 10.83,
-          "brand": "SOCAR",
-          "statie": "Oradea Decebal",
-          "adresa": "Oradea, bd. Decebal, nr. 42, colt cu str. Piata Cazarmii"
-        }
-      },
-      "brands": [
-        {
-          "brand": "GAZPROM",
-          "benzina": {
-            "min": 10.17,
-            "max": 10.17
-          },
-          "benzina_premium": {
-            "min": 10.74,
-            "max": 10.74
-          },
-          "motorina": {
-            "min": 10.99,
-            "max": 10.99
-          },
-          "motorina_premium": {
-            "min": 11.86,
-            "max": 11.86
-          },
-          "gpl": null,
-          "are_gpl": false
-        },
-        {
-          "brand": "LUKOIL",
-          "benzina": {
-            "min": 10.07,
-            "max": 10.07
-          },
-          "benzina_premium": {
-            "min": 10.64,
-            "max": 10.64
-          },
-          "motorina": {
-            "min": 10.92,
-            "max": 10.92
-          },
-          "motorina_premium": {
-            "min": 11.81,
-            "max": 11.81
-          },
-          "gpl": {
-            "min": 4.71,
-            "max": 4.71
-          },
-          "are_gpl": true
-        },
-        {
-          "brand": "MOL",
-          "benzina": {
-            "min": 10.07,
-            "max": 10.07
-          },
-          "benzina_premium": {
-            "min": 10.64,
-            "max": 10.64
-          },
-          "motorina": {
-            "min": 10.92,
-            "max": 10.95
-          },
-          "motorina_premium": {
-            "min": 11.83,
-            "max": 11.83
-          },
-          "gpl": {
-            "min": 4.74,
-            "max": 4.76
-          },
-          "are_gpl": true
-        },
-        {
-          "brand": "OMV",
-          "benzina": {
-            "min": 10.07,
-            "max": 10.07
-          },
-          "benzina_premium": {
-            "min": 10.64,
-            "max": 10.64
-          },
-          "motorina": {
-            "min": 10.92,
-            "max": 10.92
-          },
-          "motorina_premium": {
-            "min": 11.81,
-            "max": 11.81
-          },
-          "gpl": null,
-          "are_gpl": false
-        },
-        {
-          "brand": "PETROM",
-          "benzina": {
-            "min": 10.01,
-            "max": 10.01
-          },
-          "benzina_premium": {
-            "min": 10.54,
-            "max": 10.54
-          },
-          "motorina": {
-            "min": 10.86,
-            "max": 10.86
-          },
-          "motorina_premium": {
-            "min": 11.71,
-            "max": 11.71
-          },
-          "gpl": null,
-          "are_gpl": false
-        },
-        {
-          "brand": "ROMPETROL",
-          "benzina": {
-            "min": 10.07,
-            "max": 10.07
-          },
-          "benzina_premium": {
-            "min": 10.64,
-            "max": 10.64
-          },
-          "motorina": {
-            "min": 10.92,
-            "max": 10.92
-          },
-          "motorina_premium": {
-            "min": 11.81,
-            "max": 11.83
-          },
-          "gpl": {
-            "min": 4.74,
-            "max": 4.74
-          },
-          "are_gpl": true
-        },
-        {
-          "brand": "SOCAR",
-          "benzina": {
-            "min": 9.99,
-            "max": 10.04
-          },
-          "benzina_premium": {
-            "min": 10.64,
-            "max": 10.64
-          },
-          "motorina": {
-            "min": 10.83,
-            "max": 10.89
-          },
-          "motorina_premium": {
-            "min": 11.23,
-            "max": 11.29
-          },
-          "gpl": {
-            "min": 4.74,
-            "max": 4.74
-          },
-          "are_gpl": true
         }
       ]
     },
@@ -1481,16 +1131,16 @@ window.PECO_DATA = {
             "max": 10.07
           },
           "benzina_premium": {
-            "min": 10.64,
-            "max": 10.64
+            "min": 10.69,
+            "max": 10.69
           },
           "motorina": {
             "min": 10.92,
             "max": 10.92
           },
           "motorina_premium": {
-            "min": 11.83,
-            "max": 11.83
+            "min": 11.89,
+            "max": 11.89
           },
           "gpl": {
             "min": 4.67,
@@ -1629,16 +1279,16 @@ window.PECO_DATA = {
             "max": 10.07
           },
           "benzina_premium": {
-            "min": 10.64,
-            "max": 10.64
+            "min": 10.69,
+            "max": 10.69
           },
           "motorina": {
             "min": 10.92,
             "max": 10.92
           },
           "motorina_premium": {
-            "min": 11.83,
-            "max": 11.83
+            "min": 11.89,
+            "max": 11.89
           },
           "gpl": {
             "min": 4.7,
@@ -3083,16 +2733,16 @@ window.PECO_DATA = {
             "max": 10.01
           },
           "benzina_premium": {
-            "min": 10.54,
-            "max": 10.54
+            "min": 10.59,
+            "max": 10.59
           },
           "motorina": {
             "min": 10.86,
             "max": 10.86
           },
           "motorina_premium": {
-            "min": 11.81,
-            "max": 11.81
+            "min": 11.87,
+            "max": 11.87
           },
           "gpl": null,
           "are_gpl": false
@@ -3476,16 +3126,16 @@ window.PECO_DATA = {
             "max": 10.07
           },
           "benzina_premium": {
-            "min": 10.64,
-            "max": 10.64
+            "min": 10.69,
+            "max": 10.69
           },
           "motorina": {
             "min": 10.92,
             "max": 10.92
           },
           "motorina_premium": {
-            "min": 11.83,
-            "max": 11.83
+            "min": 11.89,
+            "max": 11.89
           },
           "gpl": null,
           "are_gpl": false
@@ -4398,16 +4048,16 @@ window.PECO_DATA = {
             "max": 10.07
           },
           "benzina_premium": {
-            "min": 10.64,
-            "max": 10.64
+            "min": 10.69,
+            "max": 10.69
           },
           "motorina": {
             "min": 10.92,
             "max": 10.92
           },
           "motorina_premium": {
-            "min": 11.83,
-            "max": 11.83
+            "min": 11.89,
+            "max": 11.89
           },
           "gpl": {
             "min": 4.72,
@@ -5145,178 +4795,6 @@ window.PECO_DATA = {
             "max": 4.91
           },
           "are_gpl": true
-        }
-      ]
-    },
-    "timis": {
-      "judet": "Timiș",
-      "cel_mai_ieftin": {
-        "benzina": {
-          "pret": 9.99,
-          "brand": "SOCAR",
-          "statie": "Timisoara Calea Aradului",
-          "adresa": "Calea Aradului, nr. 107/A, Timisoara, jud.  Timis"
-        },
-        "motorina": {
-          "pret": 10.83,
-          "brand": "SOCAR",
-          "statie": "Timisoara Calea Aradului",
-          "adresa": "Calea Aradului, nr. 107/A, Timisoara, jud.  Timis"
-        }
-      },
-      "brands": [
-        {
-          "brand": "GAZPROM",
-          "benzina": {
-            "min": 10.17,
-            "max": 10.17
-          },
-          "benzina_premium": {
-            "min": 10.74,
-            "max": 10.74
-          },
-          "motorina": {
-            "min": 10.99,
-            "max": 10.99
-          },
-          "motorina_premium": {
-            "min": 11.86,
-            "max": 11.86
-          },
-          "gpl": null,
-          "are_gpl": false
-        },
-        {
-          "brand": "LUKOIL",
-          "benzina": {
-            "min": 10.07,
-            "max": 10.07
-          },
-          "benzina_premium": {
-            "min": 10.64,
-            "max": 10.64
-          },
-          "motorina": {
-            "min": 10.92,
-            "max": 10.92
-          },
-          "motorina_premium": {
-            "min": 11.81,
-            "max": 11.81
-          },
-          "gpl": {
-            "min": 4.71,
-            "max": 4.71
-          },
-          "are_gpl": true
-        },
-        {
-          "brand": "MOL",
-          "benzina": {
-            "min": 10.07,
-            "max": 10.07
-          },
-          "benzina_premium": {
-            "min": 10.64,
-            "max": 10.64
-          },
-          "motorina": {
-            "min": 10.92,
-            "max": 10.92
-          },
-          "motorina_premium": {
-            "min": 11.83,
-            "max": 11.83
-          },
-          "gpl": {
-            "min": 4.74,
-            "max": 4.74
-          },
-          "are_gpl": true
-        },
-        {
-          "brand": "OMV",
-          "benzina": {
-            "min": 10.07,
-            "max": 10.07
-          },
-          "benzina_premium": {
-            "min": 10.64,
-            "max": 10.64
-          },
-          "motorina": {
-            "min": 10.92,
-            "max": 10.92
-          },
-          "motorina_premium": {
-            "min": 11.81,
-            "max": 11.81
-          },
-          "gpl": null,
-          "are_gpl": false
-        },
-        {
-          "brand": "PETROM",
-          "benzina": {
-            "min": 10.01,
-            "max": 10.01
-          },
-          "benzina_premium": {
-            "min": 10.54,
-            "max": 10.54
-          },
-          "motorina": {
-            "min": 10.86,
-            "max": 10.86
-          },
-          "motorina_premium": {
-            "min": 11.71,
-            "max": 11.71
-          },
-          "gpl": null,
-          "are_gpl": false
-        },
-        {
-          "brand": "ROMPETROL",
-          "benzina": {
-            "min": 10.07,
-            "max": 10.07
-          },
-          "benzina_premium": {
-            "min": 10.64,
-            "max": 10.64
-          },
-          "motorina": {
-            "min": 10.92,
-            "max": 10.92
-          },
-          "motorina_premium": {
-            "min": 11.83,
-            "max": 11.83
-          },
-          "gpl": null,
-          "are_gpl": false
-        },
-        {
-          "brand": "SOCAR",
-          "benzina": {
-            "min": 9.99,
-            "max": 9.99
-          },
-          "benzina_premium": {
-            "min": 10.59,
-            "max": 10.59
-          },
-          "motorina": {
-            "min": 10.83,
-            "max": 10.83
-          },
-          "motorina_premium": {
-            "min": 11.23,
-            "max": 11.23
-          },
-          "gpl": null,
-          "are_gpl": false
         }
       ]
     },
