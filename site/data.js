@@ -1,5 +1,5 @@
 window.PECO_DATA = {
-  "actualizat_la": "2026-11-03T22:50:37.998Z",
+  "actualizat_la": "2026-11-04T02:52:33.656Z",
   "sursa": "pretbenzina.ro (date pe retea/brand, agregate pe judet)",
   "curs_eur": 5.3428,
   "curs_eur_data": "2026-11-03",
@@ -2982,7 +2982,7 @@ window.PECO_DATA = {
           "adresa": "Str. Zol Peter, nr . 3"
         },
         "motorina": {
-          "pret": 10.86,
+          "pret": 10.91,
           "brand": "PETROM",
           "statie": "2 MIERCUREA CIUC",
           "adresa": "Str. Zol Peter, nr . 3"
@@ -3024,12 +3024,12 @@ window.PECO_DATA = {
             "max": 10.64
           },
           "motorina": {
-            "min": 10.92,
-            "max": 10.92
+            "min": 10.97,
+            "max": 10.97
           },
           "motorina_premium": {
-            "min": 11.83,
-            "max": 11.83
+            "min": 11.88,
+            "max": 11.88
           },
           "gpl": null,
           "are_gpl": false
@@ -3045,12 +3045,12 @@ window.PECO_DATA = {
             "max": 10.64
           },
           "motorina": {
-            "min": 10.92,
-            "max": 10.92
+            "min": 10.97,
+            "max": 10.97
           },
           "motorina_premium": {
-            "min": 11.81,
-            "max": 11.81
+            "min": 11.86,
+            "max": 11.86
           },
           "gpl": null,
           "are_gpl": false
@@ -3066,12 +3066,12 @@ window.PECO_DATA = {
             "max": 10.54
           },
           "motorina": {
-            "min": 10.86,
-            "max": 10.86
+            "min": 10.91,
+            "max": 10.91
           },
           "motorina_premium": {
-            "min": 11.71,
-            "max": 11.71
+            "min": 11.76,
+            "max": 11.76
           },
           "gpl": null,
           "are_gpl": false
@@ -3087,8 +3087,8 @@ window.PECO_DATA = {
             "max": 10.59
           },
           "motorina": {
-            "min": 10.86,
-            "max": 10.86
+            "min": 10.91,
+            "max": 10.91
           },
           "motorina_premium": {
             "min": 11.87,
@@ -4294,7 +4294,7 @@ window.PECO_DATA = {
           "adresa": "Calea Bucuresti nr. 230"
         },
         "motorina": {
-          "pret": 10.86,
+          "pret": 10.91,
           "brand": "PETROM",
           "statie": "1 HIPODROM",
           "adresa": "Calea Bucuresti nr. 230"
@@ -4336,12 +4336,12 @@ window.PECO_DATA = {
             "max": 10.64
           },
           "motorina": {
-            "min": 10.92,
-            "max": 10.92
+            "min": 10.97,
+            "max": 10.97
           },
           "motorina_premium": {
-            "min": 11.83,
-            "max": 11.83
+            "min": 11.88,
+            "max": 11.88
           },
           "gpl": {
             "min": 4.7,
@@ -4360,12 +4360,12 @@ window.PECO_DATA = {
             "max": 10.64
           },
           "motorina": {
-            "min": 10.92,
-            "max": 10.92
+            "min": 10.97,
+            "max": 10.97
           },
           "motorina_premium": {
-            "min": 11.81,
-            "max": 11.81
+            "min": 11.86,
+            "max": 11.86
           },
           "gpl": null,
           "are_gpl": false
@@ -4381,12 +4381,12 @@ window.PECO_DATA = {
             "max": 10.54
           },
           "motorina": {
-            "min": 10.86,
-            "max": 10.86
+            "min": 10.91,
+            "max": 10.91
           },
           "motorina_premium": {
-            "min": 11.71,
-            "max": 11.71
+            "min": 11.76,
+            "max": 11.76
           },
           "gpl": null,
           "are_gpl": false
@@ -4402,8 +4402,8 @@ window.PECO_DATA = {
             "max": 10.69
           },
           "motorina": {
-            "min": 10.92,
-            "max": 10.92
+            "min": 10.97,
+            "max": 10.97
           },
           "motorina_premium": {
             "min": 11.89,
@@ -5330,7 +5330,7 @@ window.PECO_DATA = {
           "adresa": "str. Babadag nr. 148"
         },
         "motorina": {
-          "pret": 10.86,
+          "pret": 10.91,
           "brand": "PETROM",
           "statie": "1 TULCEA",
           "adresa": "str. Babadag nr. 148"
@@ -5372,12 +5372,12 @@ window.PECO_DATA = {
             "max": 10.64
           },
           "motorina": {
-            "min": 10.92,
-            "max": 10.92
+            "min": 10.97,
+            "max": 10.97
           },
           "motorina_premium": {
-            "min": 11.83,
-            "max": 11.83
+            "min": 11.88,
+            "max": 11.88
           },
           "gpl": {
             "min": 4.69,
@@ -5396,12 +5396,12 @@ window.PECO_DATA = {
             "max": 10.54
           },
           "motorina": {
-            "min": 10.86,
-            "max": 10.86
+            "min": 10.91,
+            "max": 10.91
           },
           "motorina_premium": {
-            "min": 11.71,
-            "max": 11.71
+            "min": 11.76,
+            "max": 11.76
           },
           "gpl": null,
           "are_gpl": false
@@ -5417,8 +5417,8 @@ window.PECO_DATA = {
             "max": 10.69
           },
           "motorina": {
-            "min": 10.92,
-            "max": 10.92
+            "min": 10.97,
+            "max": 10.97
           },
           "motorina_premium": {
             "min": 11.89,
