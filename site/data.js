@@ -1,5 +1,5 @@
 window.PECO_DATA = {
-  "actualizat_la": "2026-11-06T23:37:45.162Z",
+  "actualizat_la": "2026-11-07T04:26:52.383Z",
   "sursa": "pretbenzina.ro (date pe retea/brand, agregate pe judet)",
   "curs_eur": 5.3403,
   "curs_eur_data": "2026-11-06",
@@ -672,8 +672,8 @@ window.PECO_DATA = {
             "max": 11.84
           },
           "gpl": {
-            "min": 4.74,
-            "max": 4.76
+            "min": 4.79,
+            "max": 4.81
           },
           "are_gpl": true
         },
@@ -738,8 +738,8 @@ window.PECO_DATA = {
             "max": 11.84
           },
           "gpl": {
-            "min": 4.74,
-            "max": 4.74
+            "min": 4.79,
+            "max": 4.79
           },
           "are_gpl": true
         },
@@ -2745,8 +2745,8 @@ window.PECO_DATA = {
             "max": 9.93
           },
           "benzina_premium": {
-            "min": 10.55,
-            "max": 10.55
+            "min": 10.5,
+            "max": 10.5
           },
           "motorina": {
             "min": 10.92,
@@ -2820,8 +2820,8 @@ window.PECO_DATA = {
             "max": 11.84
           },
           "gpl": {
-            "min": 4.7,
-            "max": 4.7
+            "min": 4.75,
+            "max": 4.75
           },
           "are_gpl": true
         }
@@ -4045,8 +4045,8 @@ window.PECO_DATA = {
             "max": 11.84
           },
           "gpl": {
-            "min": 4.74,
-            "max": 4.74
+            "min": 4.79,
+            "max": 4.79
           },
           "are_gpl": true
         },
@@ -4344,8 +4344,8 @@ window.PECO_DATA = {
             "max": 11.84
           },
           "gpl": {
-            "min": 4.7,
-            "max": 4.7
+            "min": 4.75,
+            "max": 4.75
           },
           "are_gpl": true
         },
@@ -5229,8 +5229,8 @@ window.PECO_DATA = {
             "max": 11.84
           },
           "gpl": {
-            "min": 4.74,
-            "max": 4.74
+            "min": 4.79,
+            "max": 4.79
           },
           "are_gpl": true
         },
