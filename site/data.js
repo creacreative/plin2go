@@ -1,5 +1,5 @@
 window.PECO_DATA = {
-  "actualizat_la": "2026-11-07T21:23:39.722Z",
+  "actualizat_la": "2026-11-08T01:02:16.079Z",
   "sursa": "pretbenzina.ro (date pe retea/brand, agregate pe judet)",
   "curs_eur": 5.3403,
   "curs_eur_data": "2026-11-06",
@@ -1427,8 +1427,8 @@ window.PECO_DATA = {
             "max": 11.84
           },
           "gpl": {
-            "min": 4.64,
-            "max": 4.7
+            "min": 4.69,
+            "max": 4.75
           },
           "are_gpl": true
         },
@@ -2346,8 +2346,8 @@ window.PECO_DATA = {
             "max": 11.84
           },
           "gpl": {
-            "min": 4.49,
-            "max": 4.49
+            "min": 4.54,
+            "max": 4.54
           },
           "are_gpl": true
         },
