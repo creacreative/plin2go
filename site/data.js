@@ -1,5 +1,5 @@
 window.PECO_DATA = {
-  "actualizat_la": "2026-11-09T00:28:26.801Z",
+  "actualizat_la": "2026-11-09T07:36:12.095Z",
   "sursa": "pretbenzina.ro (date pe retea/brand, agregate pe judet)",
   "curs_eur": 5.3403,
   "curs_eur_data": "2026-11-06",
@@ -648,8 +648,8 @@ window.PECO_DATA = {
             "max": 11.77
           },
           "gpl": {
-            "min": 4.71,
-            "max": 4.71
+            "min": 4.74,
+            "max": 4.74
           },
           "are_gpl": true
         },
@@ -953,8 +953,8 @@ window.PECO_DATA = {
             "max": 11.77
           },
           "gpl": {
-            "min": 4.71,
-            "max": 4.71
+            "min": 4.74,
+            "max": 4.74
           },
           "are_gpl": true
         },
@@ -1104,8 +1104,8 @@ window.PECO_DATA = {
             "max": 11.77
           },
           "gpl": {
-            "min": 4.67,
-            "max": 4.67
+            "min": 4.7,
+            "max": 4.7
           },
           "are_gpl": true
         },
@@ -1705,8 +1705,8 @@ window.PECO_DATA = {
             "max": 11.77
           },
           "gpl": {
-            "min": 4.71,
-            "max": 4.71
+            "min": 4.74,
+            "max": 4.74
           },
           "are_gpl": true
         },
@@ -2322,8 +2322,8 @@ window.PECO_DATA = {
             "max": 11.77
           },
           "gpl": {
-            "min": 4.7,
-            "max": 4.7
+            "min": 4.73,
+            "max": 4.73
           },
           "are_gpl": true
         },
@@ -2452,8 +2452,8 @@ window.PECO_DATA = {
             "max": 11.77
           },
           "gpl": {
-            "min": 4.67,
-            "max": 4.67
+            "min": 4.7,
+            "max": 4.7
           },
           "are_gpl": true
         },
@@ -2733,8 +2733,8 @@ window.PECO_DATA = {
             "max": 11.77
           },
           "gpl": {
-            "min": 4.67,
-            "max": 4.67
+            "min": 4.7,
+            "max": 4.7
           },
           "are_gpl": true
         },
@@ -2863,8 +2863,8 @@ window.PECO_DATA = {
             "max": 11.77
           },
           "gpl": {
-            "min": 4.7,
-            "max": 4.7
+            "min": 4.73,
+            "max": 4.73
           },
           "are_gpl": true
         },
@@ -3135,8 +3135,8 @@ window.PECO_DATA = {
             "max": 11.77
           },
           "gpl": {
-            "min": 4.7,
-            "max": 4.7
+            "min": 4.73,
+            "max": 4.73
           },
           "are_gpl": true
         },
@@ -4021,8 +4021,8 @@ window.PECO_DATA = {
             "max": 11.77
           },
           "gpl": {
-            "min": 4.71,
-            "max": 4.71
+            "min": 4.74,
+            "max": 4.74
           },
           "are_gpl": true
         },
@@ -5465,8 +5465,8 @@ window.PECO_DATA = {
             "max": 11.77
           },
           "gpl": {
-            "min": 4.71,
-            "max": 4.71
+            "min": 4.74,
+            "max": 4.74
           },
           "are_gpl": true
         },
