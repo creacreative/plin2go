@@ -1,5 +1,5 @@
 window.PECO_DATA = {
-  "actualizat_la": "2026-11-10T22:46:39.375Z",
+  "actualizat_la": "2026-11-11T02:29:39.783Z",
   "sursa": "pretbenzina.ro (date pe retea/brand, agregate pe judet)",
   "curs_eur": 5.3442,
   "curs_eur_data": "2026-11-10",
@@ -3912,8 +3912,8 @@ window.PECO_DATA = {
             "max": 11.79
           },
           "gpl": {
-            "min": 4.78,
-            "max": 4.78
+            "min": 4.83,
+            "max": 4.83
           },
           "are_gpl": true
         },
@@ -3962,12 +3962,12 @@ window.PECO_DATA = {
         {
           "brand": "ROMPETROL",
           "benzina": {
-            "min": 9.84,
-            "max": 9.84
+            "min": 9.79,
+            "max": 9.79
           },
           "benzina_premium": {
-            "min": 10.41,
-            "max": 10.41
+            "min": 10.36,
+            "max": 10.36
           },
           "motorina": {
             "min": 10.87,
@@ -3978,8 +3978,8 @@ window.PECO_DATA = {
             "max": 11.79
           },
           "gpl": {
-            "min": 4.78,
-            "max": 4.78
+            "min": 4.8,
+            "max": 4.8
           },
           "are_gpl": true
         }
@@ -4243,12 +4243,12 @@ window.PECO_DATA = {
         {
           "brand": "ROMPETROL",
           "benzina": {
-            "min": 9.84,
-            "max": 9.84
+            "min": 9.79,
+            "max": 9.79
           },
           "benzina_premium": {
-            "min": 10.41,
-            "max": 10.41
+            "min": 10.36,
+            "max": 10.36
           },
           "motorina": {
             "min": 10.87,
@@ -4874,10 +4874,10 @@ window.PECO_DATA = {
       "judet": "Sălaj",
       "cel_mai_ieftin": {
         "benzina": {
-          "pret": 9.76,
-          "brand": "SOCAR",
-          "statie": "Zalau Barnutiu",
-          "adresa": "Str. Simion Barnutiu Nr. 22 A"
+          "pret": 9.73,
+          "brand": "ROMPETROL",
+          "statie": "Zalau (Mihai Viteazu)",
+          "adresa": "Bd. Mihai Viteazu nr. 58, 450090, Zalau"
         },
         "motorina": {
           "pret": 10.78,
@@ -4930,8 +4930,8 @@ window.PECO_DATA = {
             "max": 11.79
           },
           "gpl": {
-            "min": 4.79,
-            "max": 4.79
+            "min": 4.84,
+            "max": 4.84
           },
           "are_gpl": true
         },
@@ -4980,12 +4980,12 @@ window.PECO_DATA = {
         {
           "brand": "ROMPETROL",
           "benzina": {
-            "min": 9.78,
-            "max": 9.78
+            "min": 9.73,
+            "max": 9.73
           },
           "benzina_premium": {
-            "min": 10.31,
-            "max": 10.31
+            "min": 10.26,
+            "max": 10.26
           },
           "motorina": {
             "min": 10.81,
@@ -5075,8 +5075,8 @@ window.PECO_DATA = {
             "max": 11.79
           },
           "gpl": {
-            "min": 4.94,
-            "max": 4.94
+            "min": 4.99,
+            "max": 4.99
           },
           "are_gpl": true
         },
@@ -5125,12 +5125,12 @@ window.PECO_DATA = {
         {
           "brand": "ROMPETROL",
           "benzina": {
-            "min": 9.84,
-            "max": 9.84
+            "min": 9.79,
+            "max": 9.79
           },
           "benzina_premium": {
-            "min": 10.41,
-            "max": 10.41
+            "min": 10.36,
+            "max": 10.36
           },
           "motorina": {
             "min": 10.87,
@@ -5141,8 +5141,8 @@ window.PECO_DATA = {
             "max": 11.79
           },
           "gpl": {
-            "min": 4.96,
-            "max": 4.96
+            "min": 5.01,
+            "max": 5.01
           },
           "are_gpl": true
         }
@@ -5571,8 +5571,8 @@ window.PECO_DATA = {
             "max": 11.79
           },
           "gpl": {
-            "min": 4.76,
-            "max": 4.76
+            "min": 4.81,
+            "max": 4.81
           },
           "are_gpl": true
         },
@@ -5621,12 +5621,12 @@ window.PECO_DATA = {
         {
           "brand": "ROMPETROL",
           "benzina": {
-            "min": 9.84,
-            "max": 9.84
+            "min": 9.79,
+            "max": 9.79
           },
           "benzina_premium": {
-            "min": 10.41,
-            "max": 10.41
+            "min": 10.36,
+            "max": 10.36
           },
           "motorina": {
             "min": 10.87,
