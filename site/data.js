@@ -1,5 +1,5 @@
 window.PECO_DATA = {
-  "actualizat_la": "2026-11-17T01:29:52.271Z",
+  "actualizat_la": "2026-11-17T10:06:05.087Z",
   "sursa": "pretbenzina.ro (date pe retea/brand, agregate pe judet)",
   "curs_eur": 5.3493,
   "curs_eur_data": "2026-11-16",
@@ -444,7 +444,7 @@ window.PECO_DATA = {
       "judet": "Bacău",
       "cel_mai_ieftin": {
         "benzina": {
-          "pret": 9.48,
+          "pret": 9.33,
           "brand": "PETROM",
           "statie": "1 BACAU",
           "adresa": "Calea Moldovei nr. 98"
@@ -460,12 +460,12 @@ window.PECO_DATA = {
         {
           "brand": "LUKOIL",
           "benzina": {
-            "min": 9.51,
-            "max": 9.51
+            "min": 9.36,
+            "max": 9.36
           },
           "benzina_premium": {
-            "min": 10.11,
-            "max": 10.11
+            "min": 9.96,
+            "max": 9.96
           },
           "motorina": {
             "min": 10.7,
@@ -484,12 +484,12 @@ window.PECO_DATA = {
         {
           "brand": "MOL",
           "benzina": {
-            "min": 9.54,
-            "max": 9.54
+            "min": 9.39,
+            "max": 9.39
           },
           "benzina_premium": {
-            "min": 10.11,
-            "max": 10.11
+            "min": 9.96,
+            "max": 9.96
           },
           "motorina": {
             "min": 10.73,
@@ -505,12 +505,12 @@ window.PECO_DATA = {
         {
           "brand": "OMV",
           "benzina": {
-            "min": 9.54,
-            "max": 9.54
+            "min": 9.39,
+            "max": 9.39
           },
           "benzina_premium": {
-            "min": 10.11,
-            "max": 10.11
+            "min": 9.96,
+            "max": 9.96
           },
           "motorina": {
             "min": 10.73,
@@ -526,12 +526,12 @@ window.PECO_DATA = {
         {
           "brand": "PETROM",
           "benzina": {
-            "min": 9.48,
-            "max": 9.48
+            "min": 9.33,
+            "max": 9.33
           },
           "benzina_premium": {
-            "min": 10.01,
-            "max": 10.01
+            "min": 9.86,
+            "max": 9.86
           },
           "motorina": {
             "min": 10.67,
@@ -547,12 +547,12 @@ window.PECO_DATA = {
         {
           "brand": "ROMPETROL",
           "benzina": {
-            "min": 9.54,
-            "max": 9.54
+            "min": 9.39,
+            "max": 9.39
           },
           "benzina_premium": {
-            "min": 10.11,
-            "max": 10.11
+            "min": 9.96,
+            "max": 9.96
           },
           "motorina": {
             "min": 10.73,
@@ -571,12 +571,12 @@ window.PECO_DATA = {
         {
           "brand": "SOCAR",
           "benzina": {
-            "min": 9.48,
-            "max": 9.49
+            "min": 9.33,
+            "max": 9.34
           },
           "benzina_premium": {
-            "min": 10.09,
-            "max": 10.09
+            "min": 9.94,
+            "max": 9.94
           },
           "motorina": {
             "min": 10.67,
@@ -1223,7 +1223,7 @@ window.PECO_DATA = {
       "judet": "Brăila",
       "cel_mai_ieftin": {
         "benzina": {
-          "pret": 9.48,
+          "pret": 9.33,
           "brand": "SOCAR",
           "statie": "Braila Dig",
           "adresa": "DN 22B, KM 4 + 200, Braila"
@@ -1239,12 +1239,12 @@ window.PECO_DATA = {
         {
           "brand": "LUKOIL",
           "benzina": {
-            "min": 9.51,
-            "max": 9.51
+            "min": 9.36,
+            "max": 9.36
           },
           "benzina_premium": {
-            "min": 10.11,
-            "max": 10.11
+            "min": 9.96,
+            "max": 9.96
           },
           "motorina": {
             "min": 10.7,
@@ -1263,12 +1263,12 @@ window.PECO_DATA = {
         {
           "brand": "MOL",
           "benzina": {
-            "min": 9.54,
-            "max": 9.54
+            "min": 9.39,
+            "max": 9.39
           },
           "benzina_premium": {
-            "min": 10.11,
-            "max": 10.11
+            "min": 9.96,
+            "max": 9.96
           },
           "motorina": {
             "min": 10.73,
@@ -1287,12 +1287,12 @@ window.PECO_DATA = {
         {
           "brand": "OMV",
           "benzina": {
-            "min": 9.54,
-            "max": 9.54
+            "min": 9.39,
+            "max": 9.39
           },
           "benzina_premium": {
-            "min": 10.11,
-            "max": 10.11
+            "min": 9.96,
+            "max": 9.96
           },
           "motorina": {
             "min": 10.73,
@@ -1308,8 +1308,8 @@ window.PECO_DATA = {
         {
           "brand": "PETROM",
           "benzina": {
-            "min": 9.48,
-            "max": 9.48
+            "min": 9.33,
+            "max": 9.33
           },
           "benzina_premium": null,
           "motorina": {
@@ -1326,12 +1326,12 @@ window.PECO_DATA = {
         {
           "brand": "ROMPETROL",
           "benzina": {
-            "min": 9.54,
-            "max": 9.54
+            "min": 9.39,
+            "max": 9.39
           },
           "benzina_premium": {
-            "min": 10.11,
-            "max": 10.11
+            "min": 9.96,
+            "max": 9.96
           },
           "motorina": {
             "min": 10.73,
@@ -1347,12 +1347,12 @@ window.PECO_DATA = {
         {
           "brand": "SOCAR",
           "benzina": {
-            "min": 9.48,
-            "max": 9.48
+            "min": 9.33,
+            "max": 9.33
           },
           "benzina_premium": {
-            "min": 10.08,
-            "max": 10.08
+            "min": 9.93,
+            "max": 9.93
           },
           "motorina": {
             "min": 10.67,
@@ -1933,12 +1933,12 @@ window.PECO_DATA = {
         {
           "brand": "SOCAR",
           "benzina": {
-            "min": 9.49,
-            "max": 9.49
+            "min": 9.34,
+            "max": 9.34
           },
           "benzina_premium": {
-            "min": 10.09,
-            "max": 10.09
+            "min": 9.94,
+            "max": 9.94
           },
           "motorina": {
             "min": 10.69,
@@ -1960,7 +1960,7 @@ window.PECO_DATA = {
       "judet": "Constanța",
       "cel_mai_ieftin": {
         "benzina": {
-          "pret": 9.48,
+          "pret": 9.33,
           "brand": "PETROM",
           "statie": "26 CONSTANTA",
           "adresa": "B-dul Tomis nr. 315"
@@ -1976,12 +1976,12 @@ window.PECO_DATA = {
         {
           "brand": "LUKOIL",
           "benzina": {
-            "min": 9.51,
-            "max": 9.51
+            "min": 9.36,
+            "max": 9.36
           },
           "benzina_premium": {
-            "min": 10.11,
-            "max": 10.11
+            "min": 9.96,
+            "max": 9.96
           },
           "motorina": {
             "min": 10.7,
@@ -2000,12 +2000,12 @@ window.PECO_DATA = {
         {
           "brand": "MOL",
           "benzina": {
-            "min": 9.54,
-            "max": 9.54
+            "min": 9.39,
+            "max": 9.39
           },
           "benzina_premium": {
-            "min": 10.11,
-            "max": 10.11
+            "min": 9.96,
+            "max": 9.96
           },
           "motorina": {
             "min": 10.73,
@@ -2024,12 +2024,12 @@ window.PECO_DATA = {
         {
           "brand": "OMV",
           "benzina": {
-            "min": 9.54,
-            "max": 9.54
+            "min": 9.39,
+            "max": 9.39
           },
           "benzina_premium": {
-            "min": 10.11,
-            "max": 10.11
+            "min": 9.96,
+            "max": 9.96
           },
           "motorina": {
             "min": 10.73,
@@ -2045,12 +2045,12 @@ window.PECO_DATA = {
         {
           "brand": "PETROM",
           "benzina": {
-            "min": 9.48,
-            "max": 9.48
+            "min": 9.33,
+            "max": 9.33
           },
           "benzina_premium": {
-            "min": 10.01,
-            "max": 10.01
+            "min": 9.86,
+            "max": 9.86
           },
           "motorina": {
             "min": 10.67,
@@ -2066,12 +2066,12 @@ window.PECO_DATA = {
         {
           "brand": "ROMPETROL",
           "benzina": {
-            "min": 9.54,
-            "max": 9.54
+            "min": 9.39,
+            "max": 9.39
           },
           "benzina_premium": {
-            "min": 10.11,
-            "max": 10.11
+            "min": 9.96,
+            "max": 9.96
           },
           "motorina": {
             "min": 10.73,
@@ -2202,7 +2202,7 @@ window.PECO_DATA = {
       "judet": "Călărași",
       "cel_mai_ieftin": {
         "benzina": {
-          "pret": 9.48,
+          "pret": 9.33,
           "brand": "PETROM",
           "statie": "1 CALARASI",
           "adresa": "str. Prelungirea Bucuresti, nr. 295"
@@ -2218,12 +2218,12 @@ window.PECO_DATA = {
         {
           "brand": "LUKOIL",
           "benzina": {
-            "min": 9.51,
-            "max": 9.51
+            "min": 9.36,
+            "max": 9.36
           },
           "benzina_premium": {
-            "min": 10.11,
-            "max": 10.11
+            "min": 9.96,
+            "max": 9.96
           },
           "motorina": {
             "min": 10.7,
@@ -2242,12 +2242,12 @@ window.PECO_DATA = {
         {
           "brand": "MOL",
           "benzina": {
-            "min": 9.54,
-            "max": 9.54
+            "min": 9.39,
+            "max": 9.39
           },
           "benzina_premium": {
-            "min": 10.11,
-            "max": 10.11
+            "min": 9.96,
+            "max": 9.96
           },
           "motorina": {
             "min": 10.73,
@@ -2266,12 +2266,12 @@ window.PECO_DATA = {
         {
           "brand": "PETROM",
           "benzina": {
-            "min": 9.48,
-            "max": 9.48
+            "min": 9.33,
+            "max": 9.33
           },
           "benzina_premium": {
-            "min": 10.01,
-            "max": 10.01
+            "min": 9.86,
+            "max": 9.86
           },
           "motorina": {
             "min": 10.67,
@@ -2290,7 +2290,7 @@ window.PECO_DATA = {
       "judet": "Dolj",
       "cel_mai_ieftin": {
         "benzina": {
-          "pret": 9.48,
+          "pret": 9.33,
           "brand": "PETROM",
           "statie": "23 CRAIOVA",
           "adresa": "str Brestei"
@@ -2306,12 +2306,12 @@ window.PECO_DATA = {
         {
           "brand": "LUKOIL",
           "benzina": {
-            "min": 9.51,
-            "max": 9.51
+            "min": 9.36,
+            "max": 9.36
           },
           "benzina_premium": {
-            "min": 10.11,
-            "max": 10.11
+            "min": 9.96,
+            "max": 9.96
           },
           "motorina": {
             "min": 10.7,
@@ -2330,12 +2330,12 @@ window.PECO_DATA = {
         {
           "brand": "MOL",
           "benzina": {
-            "min": 9.54,
-            "max": 9.54
+            "min": 9.39,
+            "max": 9.39
           },
           "benzina_premium": {
-            "min": 10.11,
-            "max": 10.11
+            "min": 9.96,
+            "max": 9.96
           },
           "motorina": {
             "min": 10.73,
@@ -2354,12 +2354,12 @@ window.PECO_DATA = {
         {
           "brand": "OMV",
           "benzina": {
-            "min": 9.54,
-            "max": 9.54
+            "min": 9.39,
+            "max": 9.39
           },
           "benzina_premium": {
-            "min": 10.11,
-            "max": 10.11
+            "min": 9.96,
+            "max": 9.96
           },
           "motorina": {
             "min": 10.73,
@@ -2375,12 +2375,12 @@ window.PECO_DATA = {
         {
           "brand": "PETROM",
           "benzina": {
-            "min": 9.48,
-            "max": 9.48
+            "min": 9.33,
+            "max": 9.33
           },
           "benzina_premium": {
-            "min": 10.01,
-            "max": 10.01
+            "min": 9.86,
+            "max": 9.86
           },
           "motorina": {
             "min": 10.67,
@@ -2396,12 +2396,12 @@ window.PECO_DATA = {
         {
           "brand": "ROMPETROL",
           "benzina": {
-            "min": 9.54,
-            "max": 9.54
+            "min": 9.39,
+            "max": 9.39
           },
           "benzina_premium": {
-            "min": 10.11,
-            "max": 10.11
+            "min": 9.96,
+            "max": 9.96
           },
           "motorina": {
             "min": 10.73,
@@ -3103,7 +3103,7 @@ window.PECO_DATA = {
       "judet": "Hunedoara",
       "cel_mai_ieftin": {
         "benzina": {
-          "pret": 9.48,
+          "pret": 9.33,
           "brand": "PETROM",
           "statie": "2 DEVA",
           "adresa": "Str. Horea, nr. 71"
@@ -3119,12 +3119,12 @@ window.PECO_DATA = {
         {
           "brand": "LUKOIL",
           "benzina": {
-            "min": 9.51,
-            "max": 9.51
+            "min": 9.36,
+            "max": 9.36
           },
           "benzina_premium": {
-            "min": 10.11,
-            "max": 10.11
+            "min": 9.96,
+            "max": 9.96
           },
           "motorina": {
             "min": 10.7,
@@ -3143,12 +3143,12 @@ window.PECO_DATA = {
         {
           "brand": "MOL",
           "benzina": {
-            "min": 9.54,
-            "max": 9.54
+            "min": 9.39,
+            "max": 9.39
           },
           "benzina_premium": {
-            "min": 10.11,
-            "max": 10.11
+            "min": 9.96,
+            "max": 9.96
           },
           "motorina": {
             "min": 10.73,
@@ -3167,12 +3167,12 @@ window.PECO_DATA = {
         {
           "brand": "OMV",
           "benzina": {
-            "min": 9.54,
-            "max": 9.54
+            "min": 9.39,
+            "max": 9.39
           },
           "benzina_premium": {
-            "min": 10.11,
-            "max": 10.11
+            "min": 9.96,
+            "max": 9.96
           },
           "motorina": {
             "min": 10.73,
@@ -3188,12 +3188,12 @@ window.PECO_DATA = {
         {
           "brand": "PETROM",
           "benzina": {
-            "min": 9.48,
-            "max": 9.48
+            "min": 9.33,
+            "max": 9.33
           },
           "benzina_premium": {
-            "min": 10.01,
-            "max": 10.01
+            "min": 9.86,
+            "max": 9.86
           },
           "motorina": {
             "min": 10.67,
@@ -3209,12 +3209,12 @@ window.PECO_DATA = {
         {
           "brand": "ROMPETROL",
           "benzina": {
-            "min": 9.48,
-            "max": 9.48
+            "min": 9.33,
+            "max": 9.33
           },
           "benzina_premium": {
-            "min": 10.01,
-            "max": 10.01
+            "min": 9.86,
+            "max": 9.86
           },
           "motorina": {
             "min": 10.67,
@@ -4421,7 +4421,7 @@ window.PECO_DATA = {
       "judet": "Satu Mare",
       "cel_mai_ieftin": {
         "benzina": {
-          "pret": 9.48,
+          "pret": 9.33,
           "brand": "PETROM",
           "statie": "1 SATU MARE",
           "adresa": "str, Botizului"
@@ -4437,12 +4437,12 @@ window.PECO_DATA = {
         {
           "brand": "LUKOIL",
           "benzina": {
-            "min": 9.51,
-            "max": 9.51
+            "min": 9.36,
+            "max": 9.36
           },
           "benzina_premium": {
-            "min": 10.11,
-            "max": 10.11
+            "min": 9.96,
+            "max": 9.96
           },
           "motorina": {
             "min": 10.7,
@@ -4461,12 +4461,12 @@ window.PECO_DATA = {
         {
           "brand": "MOL",
           "benzina": {
-            "min": 9.54,
-            "max": 9.54
+            "min": 9.39,
+            "max": 9.39
           },
           "benzina_premium": {
-            "min": 10.11,
-            "max": 10.11
+            "min": 9.96,
+            "max": 9.96
           },
           "motorina": {
             "min": 10.73,
@@ -4485,12 +4485,12 @@ window.PECO_DATA = {
         {
           "brand": "OMV",
           "benzina": {
-            "min": 9.54,
-            "max": 9.54
+            "min": 9.39,
+            "max": 9.39
           },
           "benzina_premium": {
-            "min": 10.11,
-            "max": 10.11
+            "min": 9.96,
+            "max": 9.96
           },
           "motorina": {
             "min": 10.73,
@@ -4506,12 +4506,12 @@ window.PECO_DATA = {
         {
           "brand": "PETROM",
           "benzina": {
-            "min": 9.48,
-            "max": 9.48
+            "min": 9.33,
+            "max": 9.33
           },
           "benzina_premium": {
-            "min": 10.01,
-            "max": 10.01
+            "min": 9.86,
+            "max": 9.86
           },
           "motorina": {
             "min": 10.67,
@@ -4527,12 +4527,12 @@ window.PECO_DATA = {
         {
           "brand": "ROMPETROL",
           "benzina": {
-            "min": 9.54,
-            "max": 9.54
+            "min": 9.39,
+            "max": 9.39
           },
           "benzina_premium": {
-            "min": 10.11,
-            "max": 10.11
+            "min": 9.96,
+            "max": 9.96
           },
           "motorina": {
             "min": 10.73,
@@ -4554,7 +4554,7 @@ window.PECO_DATA = {
       "judet": "Sibiu",
       "cel_mai_ieftin": {
         "benzina": {
-          "pret": 9.46,
+          "pret": 9.31,
           "brand": "SOCAR",
           "statie": "Sibiu Turnisor",
           "adresa": "Str. Agricultorilor, nr. 2-4, Sibiu, Jud. Sibiu"
@@ -4570,36 +4570,36 @@ window.PECO_DATA = {
         {
           "brand": "GAZPROM",
           "benzina": {
-            "min": 9.84,
-            "max": 9.84
+            "min": 9.7,
+            "max": 9.7
           },
           "benzina_premium": {
-            "min": 10.41,
-            "max": 10.41
+            "min": 10.11,
+            "max": 10.11
           },
           "motorina": {
-            "min": 10.87,
-            "max": 10.87
+            "min": 10.73,
+            "max": 10.73
           },
           "motorina_premium": {
-            "min": 11.76,
-            "max": 11.76
+            "min": 11.62,
+            "max": 11.62
           },
           "gpl": {
-            "min": 4.77,
-            "max": 4.77
+            "min": 4.78,
+            "max": 4.78
           },
           "are_gpl": true
         },
         {
           "brand": "LUKOIL",
           "benzina": {
-            "min": 9.51,
-            "max": 9.51
+            "min": 9.36,
+            "max": 9.36
           },
           "benzina_premium": {
-            "min": 10.11,
-            "max": 10.11
+            "min": 9.96,
+            "max": 9.96
           },
           "motorina": {
             "min": 10.7,
@@ -4618,12 +4618,12 @@ window.PECO_DATA = {
         {
           "brand": "MOL",
           "benzina": {
-            "min": 9.54,
-            "max": 9.54
+            "min": 9.39,
+            "max": 9.39
           },
           "benzina_premium": {
-            "min": 10.11,
-            "max": 10.11
+            "min": 9.96,
+            "max": 9.96
           },
           "motorina": {
             "min": 10.73,
@@ -4642,12 +4642,12 @@ window.PECO_DATA = {
         {
           "brand": "OMV",
           "benzina": {
-            "min": 9.54,
-            "max": 9.54
+            "min": 9.39,
+            "max": 9.39
           },
           "benzina_premium": {
-            "min": 10.11,
-            "max": 10.11
+            "min": 9.96,
+            "max": 9.96
           },
           "motorina": {
             "min": 10.73,
@@ -4663,12 +4663,12 @@ window.PECO_DATA = {
         {
           "brand": "PETROM",
           "benzina": {
-            "min": 9.48,
-            "max": 9.48
+            "min": 9.33,
+            "max": 9.33
           },
           "benzina_premium": {
-            "min": 10.01,
-            "max": 10.01
+            "min": 9.86,
+            "max": 9.86
           },
           "motorina": {
             "min": 10.67,
@@ -4684,12 +4684,12 @@ window.PECO_DATA = {
         {
           "brand": "ROMPETROL",
           "benzina": {
-            "min": 9.54,
-            "max": 9.54
+            "min": 9.39,
+            "max": 9.39
           },
           "benzina_premium": {
-            "min": 10.11,
-            "max": 10.11
+            "min": 9.96,
+            "max": 9.96
           },
           "motorina": {
             "min": 10.73,
@@ -4705,12 +4705,12 @@ window.PECO_DATA = {
         {
           "brand": "SOCAR",
           "benzina": {
-            "min": 9.46,
-            "max": 9.48
+            "min": 9.31,
+            "max": 9.33
           },
           "benzina_premium": {
-            "min": 10.06,
-            "max": 10.08
+            "min": 9.91,
+            "max": 9.93
           },
           "motorina": {
             "min": 10.64,
