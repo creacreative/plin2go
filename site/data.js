@@ -1,5 +1,5 @@
 window.PECO_DATA = {
-  "actualizat_la": "2026-11-21T21:26:26.777Z",
+  "actualizat_la": "2026-11-22T01:53:25.616Z",
   "sursa": "pretbenzina.ro (date pe retea/brand, agregate pe judet)",
   "curs_eur": 5.3493,
   "curs_eur_data": "2026-11-20",
@@ -4832,20 +4832,20 @@ window.PECO_DATA = {
         {
           "brand": "ROMPETROL",
           "benzina": {
-            "min": 9.12,
-            "max": 9.12
+            "min": 9.06,
+            "max": 9.06
           },
           "benzina_premium": {
-            "min": 9.73,
-            "max": 9.73
+            "min": 9.67,
+            "max": 9.67
           },
           "motorina": {
-            "min": 10.57,
-            "max": 10.57
+            "min": 10.51,
+            "max": 10.51
           },
           "motorina_premium": {
-            "min": 11.53,
-            "max": 11.53
+            "min": 11.47,
+            "max": 11.47
           },
           "gpl": null,
           "are_gpl": false
