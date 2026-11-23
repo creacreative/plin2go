@@ -1,5 +1,5 @@
 window.PECO_DATA = {
-  "actualizat_la": "2026-11-22T23:10:23.061Z",
+  "actualizat_la": "2026-11-23T05:32:28.277Z",
   "sursa": "pretbenzina.ro (date pe retea/brand, agregate pe judet)",
   "curs_eur": 5.3493,
   "curs_eur_data": "2026-11-20",
@@ -547,20 +547,20 @@ window.PECO_DATA = {
         {
           "brand": "ROMPETROL",
           "benzina": {
-            "min": 9.06,
-            "max": 9.06
+            "min": 9.12,
+            "max": 9.12
           },
           "benzina_premium": {
-            "min": 9.67,
-            "max": 9.67
+            "min": 9.73,
+            "max": 9.73
           },
           "motorina": {
-            "min": 10.51,
-            "max": 10.51
+            "min": 10.57,
+            "max": 10.57
           },
           "motorina_premium": {
-            "min": 11.47,
-            "max": 11.47
+            "min": 11.53,
+            "max": 11.53
           },
           "gpl": {
             "min": 4.87,
@@ -773,16 +773,16 @@ window.PECO_DATA = {
       "judet": "Bistrița-Năsăud",
       "cel_mai_ieftin": {
         "benzina": {
-          "pret": 9,
-          "brand": "ROMPETROL",
-          "statie": "Bistrita (Drumul Cetatii)",
-          "adresa": "Drumul Cetatii FN, 420129, Bistrita"
+          "pret": 9.05,
+          "brand": "LUKOIL",
+          "statie": "Bistrita 3",
+          "adresa": "str. Unirea"
         },
         "motorina": {
-          "pret": 10.45,
-          "brand": "ROMPETROL",
-          "statie": "Bistrita (Drumul Cetatii)",
-          "adresa": "Drumul Cetatii FN, 420129, Bistrita"
+          "pret": 10.51,
+          "brand": "PETROM",
+          "statie": "2 BISTRITA",
+          "adresa": "DN 17, nr. 301"
         }
       },
       "brands": [
@@ -876,20 +876,20 @@ window.PECO_DATA = {
         {
           "brand": "ROMPETROL",
           "benzina": {
-            "min": 9,
-            "max": 9
+            "min": 9.06,
+            "max": 9.06
           },
           "benzina_premium": {
-            "min": 9.57,
-            "max": 9.57
+            "min": 9.63,
+            "max": 9.63
           },
           "motorina": {
-            "min": 10.45,
-            "max": 10.45
+            "min": 10.51,
+            "max": 10.51
           },
           "motorina_premium": {
-            "min": 11.44,
-            "max": 11.44
+            "min": 11.5,
+            "max": 11.5
           },
           "gpl": null,
           "are_gpl": false
@@ -1326,20 +1326,20 @@ window.PECO_DATA = {
         {
           "brand": "ROMPETROL",
           "benzina": {
-            "min": 9.06,
-            "max": 9.06
+            "min": 9.12,
+            "max": 9.12
           },
           "benzina_premium": {
-            "min": 9.67,
-            "max": 9.67
+            "min": 9.73,
+            "max": 9.73
           },
           "motorina": {
-            "min": 10.51,
-            "max": 10.51
+            "min": 10.57,
+            "max": 10.57
           },
           "motorina_premium": {
-            "min": 11.47,
-            "max": 11.47
+            "min": 11.53,
+            "max": 11.53
           },
           "gpl": null,
           "are_gpl": false
@@ -2396,20 +2396,20 @@ window.PECO_DATA = {
         {
           "brand": "ROMPETROL",
           "benzina": {
-            "min": 9.06,
-            "max": 9.06
+            "min": 9.12,
+            "max": 9.12
           },
           "benzina_premium": {
-            "min": 9.67,
-            "max": 9.67
+            "min": 9.73,
+            "max": 9.73
           },
           "motorina": {
-            "min": 10.51,
-            "max": 10.51
+            "min": 10.57,
+            "max": 10.57
           },
           "motorina_premium": {
-            "min": 11.47,
-            "max": 11.47
+            "min": 11.53,
+            "max": 11.53
           },
           "gpl": null,
           "are_gpl": false
@@ -2976,16 +2976,16 @@ window.PECO_DATA = {
       "judet": "Harghita",
       "cel_mai_ieftin": {
         "benzina": {
-          "pret": 9,
-          "brand": "ROMPETROL",
-          "statie": "Miercurea Ciuc (Harghita)",
-          "adresa": "Str. Harghita nr. 70, 530154, Miercurea Ciuc"
+          "pret": 9.05,
+          "brand": "LUKOIL",
+          "statie": "M.Ciuc 1",
+          "adresa": "str. Lunca Mare"
         },
         "motorina": {
-          "pret": 10.45,
-          "brand": "ROMPETROL",
-          "statie": "Miercurea Ciuc (Harghita)",
-          "adresa": "Str. Harghita nr. 70, 530154, Miercurea Ciuc"
+          "pret": 10.51,
+          "brand": "PETROM",
+          "statie": "2 MIERCUREA CIUC",
+          "adresa": "Str. Zol Peter, nr . 3"
         }
       },
       "brands": [
@@ -3079,20 +3079,20 @@ window.PECO_DATA = {
         {
           "brand": "ROMPETROL",
           "benzina": {
-            "min": 9,
-            "max": 9
+            "min": 9.06,
+            "max": 9.06
           },
           "benzina_premium": {
-            "min": 9.57,
-            "max": 9.57
+            "min": 9.63,
+            "max": 9.63
           },
           "motorina": {
-            "min": 10.45,
-            "max": 10.45
+            "min": 10.51,
+            "max": 10.51
           },
           "motorina_premium": {
-            "min": 11.44,
-            "max": 11.44
+            "min": 11.5,
+            "max": 11.5
           },
           "gpl": null,
           "are_gpl": false
@@ -3518,15 +3518,15 @@ window.PECO_DATA = {
       "cel_mai_ieftin": {
         "benzina": {
           "pret": 9.06,
-          "brand": "ROMPETROL",
-          "statie": "Buftea",
-          "adresa": "sos. Bucuresti- Pitesti,km 16"
+          "brand": "PETROM",
+          "statie": "BUFTEA STUDIO",
+          "adresa": "Sos. Bucuresti-Targoviste nr. 296"
         },
         "motorina": {
           "pret": 10.51,
-          "brand": "ROMPETROL",
-          "statie": "Buftea",
-          "adresa": "sos. Bucuresti- Pitesti,km 16"
+          "brand": "PETROM",
+          "statie": "BUFTEA STUDIO",
+          "adresa": "Sos. Bucuresti-Targoviste nr. 296"
         }
       },
       "brands": [
@@ -3554,20 +3554,20 @@ window.PECO_DATA = {
         {
           "brand": "ROMPETROL",
           "benzina": {
-            "min": 9.06,
-            "max": 9.06
+            "min": 9.12,
+            "max": 9.12
           },
           "benzina_premium": {
-            "min": 9.67,
-            "max": 9.67
+            "min": 9.73,
+            "max": 9.73
           },
           "motorina": {
-            "min": 10.51,
-            "max": 10.51
+            "min": 10.57,
+            "max": 10.57
           },
           "motorina_premium": {
-            "min": 11.47,
-            "max": 11.47
+            "min": 11.53,
+            "max": 11.53
           },
           "gpl": {
             "min": 4.68,
@@ -4243,20 +4243,20 @@ window.PECO_DATA = {
         {
           "brand": "ROMPETROL",
           "benzina": {
-            "min": 9.06,
-            "max": 9.06
+            "min": 9.12,
+            "max": 9.12
           },
           "benzina_premium": {
-            "min": 9.67,
-            "max": 9.67
+            "min": 9.73,
+            "max": 9.73
           },
           "motorina": {
-            "min": 10.51,
-            "max": 10.51
+            "min": 10.57,
+            "max": 10.57
           },
           "motorina_premium": {
-            "min": 11.47,
-            "max": 11.47
+            "min": 11.53,
+            "max": 11.53
           },
           "gpl": null,
           "are_gpl": false
